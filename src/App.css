@@ -1,0 +1,14 @@
+.button {
+  border-radius: 100px;
+  width: 100%;
+  border: none;
+  background: transparent
+    linear-gradient(180deg, #338de8 0%, #338de8 50%, #0071e3 100%) 0% 0%
+    no-repeat padding-box;
+  font-size: 14px;
+  padding: 12px;
+  cursor: pointer;
+  color: #fff;
+  width: 200px;
+  margin: 200px;
+}

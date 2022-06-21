@@ -1,0 +1,11 @@
+<svg class="icon icon--information " xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20 20">
+    <defs>
+      <path id="a_536788253" d="M0 0h20v20H0z"></path>
+    </defs>
+    <clipPath id="b_536788253">
+      <use xlink:href="#a_536788253" overflow="visible"></use>
+    </clipPath>
+    <g clip-path="url(#b_536788253)">
+      <path d="M9 5h2v2H9V5zm0 4h2v6H9V9zm1-9C4.5 0 0 4.5 0 10s4.5 10 10 10 10-4.5 10-10S15.5 0 10 0m0 18c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-3.6 8-8 8" fill="#0071e3"></path>
+    </g>
+  </svg>
